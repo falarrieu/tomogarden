@@ -1,0 +1,352 @@
+[
+    {
+        "id": 8549,
+        "name": "Cabbage",
+        "date_posted": "14-03-2023",
+        "price": 5.84,
+        "available": true
+    },
+    {
+        "id": 2752,
+        "name": "Spinach",
+        "date_posted": "29-05-2022",
+        "price": 4.71,
+        "available": false
+    },
+    {
+        "id": 6348,
+        "name": "Spinach",
+        "date_posted": "14-06-2022",
+        "price": 5.65,
+        "available": false
+    },
+    {
+        "id": 7836,
+        "name": "Cabbage",
+        "date_posted": "17-06-2022",
+        "price": 4.35,
+        "available": true
+    },
+    {
+        "id": 7901,
+        "name": "Cucumber",
+        "date_posted": "12-06-2022",
+        "price": 8.57,
+        "available": true
+    },
+    {
+        "id": 6832,
+        "name": "Broccoli",
+        "date_posted": "16-08-2022",
+        "price": 9.82,
+        "available": true
+    },
+    {
+        "id": 8932,
+        "name": "Broccoli",
+        "date_posted": "28-05-2022",
+        "price": 6.53,
+        "available": false
+    },
+    {
+        "id": 6544,
+        "name": "Spinach",
+        "date_posted": "23-06-2022",
+        "price": 9.54,
+        "available": false
+    },
+    {
+        "id": 4548,
+        "name": "Cabbage",
+        "date_posted": "24-05-2022",
+        "price": 7.0,
+        "available": false
+    },
+    {
+        "id": 3665,
+        "name": "Spinach",
+        "date_posted": "05-11-2022",
+        "price": 9.64,
+        "available": false
+    },
+    {
+        "id": 4569,
+        "name": "Lettuce",
+        "date_posted": "10-11-2022",
+        "price": 7.57,
+        "available": true
+    },
+    {
+        "id": 1339,
+        "name": "Cabbage",
+        "date_posted": "08-08-2022",
+        "price": 4.92,
+        "available": true
+    },
+    {
+        "id": 6484,
+        "name": "Spinach",
+        "date_posted": "24-04-2023",
+        "price": 1.99,
+        "available": true
+    },
+    {
+        "id": 1802,
+        "name": "Cucumber",
+        "date_posted": "10-05-2022",
+        "price": 8.09,
+        "available": false
+    },
+    {
+        "id": 6209,
+        "name": "Carrot",
+        "date_posted": "25-02-2023",
+        "price": 4.93,
+        "available": false
+    },
+    {
+        "id": 5473,
+        "name": "Tomato",
+        "date_posted": "29-08-2022",
+        "price": 8.25,
+        "available": false
+    },
+    {
+        "id": 9064,
+        "name": "Cabbage",
+        "date_posted": "03-07-2022",
+        "price": 7.66,
+        "available": false
+    },
+    {
+        "id": 1548,
+        "name": "Carrot",
+        "date_posted": "02-11-2022",
+        "price": 6.89,
+        "available": false
+    },
+    {
+        "id": 6568,
+        "name": "Spinach",
+        "date_posted": "01-09-2022",
+        "price": 7.63,
+        "available": false
+    },
+    {
+        "id": 1433,
+        "name": "Carrot",
+        "date_posted": "14-08-2022",
+        "price": 5.94,
+        "available": false
+    },
+    {
+        "id": 7791,
+        "name": "Broccoli",
+        "date_posted": "27-11-2022",
+        "price": 3.83,
+        "available": true
+    },
+    {
+        "id": 7571,
+        "name": "Broccoli",
+        "date_posted": "20-07-2022",
+        "price": 4.96,
+        "available": true
+    },
+    {
+        "id": 1005,
+        "name": "Tomato",
+        "date_posted": "20-08-2022",
+        "price": 1.84,
+        "available": true
+    },
+    {
+        "id": 1010,
+        "name": "Carrot",
+        "date_posted": "14-03-2023",
+        "price": 8.01,
+        "available": true
+    },
+    {
+        "id": 5562,
+        "name": "Spinach",
+        "date_posted": "12-02-2023",
+        "price": 5.12,
+        "available": true
+    },
+    {
+        "id": 8518,
+        "name": "Cucumber",
+        "date_posted": "10-05-2022",
+        "price": 2.51,
+        "available": true
+    },
+    {
+        "id": 6037,
+        "name": "Lettuce",
+        "date_posted": "24-02-2023",
+        "price": 7.34,
+        "available": true
+    },
+    {
+        "id": 7861,
+        "name": "Tomato",
+        "date_posted": "19-02-2023",
+        "price": 6.54,
+        "available": true
+    },
+    {
+        "id": 5834,
+        "name": "Cucumber",
+        "date_posted": "28-11-2022",
+        "price": 9.31,
+        "available": true
+    },
+    {
+        "id": 5545,
+        "name": "Carrot",
+        "date_posted": "04-10-2022",
+        "price": 3.94,
+        "available": true
+    },
+    {
+        "id": 9825,
+        "name": "Cabbage",
+        "date_posted": "16-06-2022",
+        "price": 9.89,
+        "available": true
+    },
+    {
+        "id": 4601,
+        "name": "Lettuce",
+        "date_posted": "23-09-2022",
+        "price": 2.59,
+        "available": false
+    },
+    {
+        "id": 9423,
+        "name": "Cabbage",
+        "date_posted": "04-05-2022",
+        "price": 8.04,
+        "available": false
+    },
+    {
+        "id": 6277,
+        "name": "Broccoli",
+        "date_posted": "23-06-2022",
+        "price": 1.21,
+        "available": false
+    },
+    {
+        "id": 4554,
+        "name": "Spinach",
+        "date_posted": "21-05-2022",
+        "price": 1.79,
+        "available": false
+    },
+    {
+        "id": 7677,
+        "name": "Spinach",
+        "date_posted": "04-11-2022",
+        "price": 3.5,
+        "available": false
+    },
+    {
+        "id": 6467,
+        "name": "Broccoli",
+        "date_posted": "31-08-2022",
+        "price": 9.7,
+        "available": false
+    },
+    {
+        "id": 1537,
+        "name": "Lettuce",
+        "date_posted": "10-03-2023",
+        "price": 9.46,
+        "available": false
+    },
+    {
+        "id": 9553,
+        "name": "Lettuce",
+        "date_posted": "19-12-2022",
+        "price": 2.81,
+        "available": true
+    },
+    {
+        "id": 6415,
+        "name": "Cabbage",
+        "date_posted": "23-12-2022",
+        "price": 7.75,
+        "available": true
+    },
+    {
+        "id": 4983,
+        "name": "Cabbage",
+        "date_posted": "15-07-2022",
+        "price": 7.15,
+        "available": true
+    },
+    {
+        "id": 6486,
+        "name": "Broccoli",
+        "date_posted": "20-03-2023",
+        "price": 6.42,
+        "available": true
+    },
+    {
+        "id": 4279,
+        "name": "Carrot",
+        "date_posted": "10-05-2022",
+        "price": 1.13,
+        "available": false
+    },
+    {
+        "id": 9601,
+        "name": "Broccoli",
+        "date_posted": "06-09-2022",
+        "price": 8.03,
+        "available": false
+    },
+    {
+        "id": 4396,
+        "name": "Broccoli",
+        "date_posted": "08-12-2022",
+        "price": 7.71,
+        "available": false
+    },
+    {
+        "id": 2782,
+        "name": "Tomato",
+        "date_posted": "24-04-2023",
+        "price": 2.08,
+        "available": true
+    },
+    {
+        "id": 1616,
+        "name": "Spinach",
+        "date_posted": "28-10-2022",
+        "price": 7.97,
+        "available": true
+    },
+    {
+        "id": 7396,
+        "name": "Cabbage",
+        "date_posted": "10-02-2023",
+        "price": 2.16,
+        "available": true
+    },
+    {
+        "id": 2266,
+        "name": "Broccoli",
+        "date_posted": "05-08-2022",
+        "price": 7.45,
+        "available": true
+    },
+    {
+        "id": 4868,
+        "name": "Carrot",
+        "date_posted": "11-07-2022",
+        "price": 5.44,
+        "available": false
+    }
+]
